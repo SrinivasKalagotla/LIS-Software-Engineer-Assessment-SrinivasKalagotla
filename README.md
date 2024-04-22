@@ -15,8 +15,8 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/LIS-Software-Engineer-Assessment-SrinivasKalagotla.git
-cd LIS-Software-Engineer-Assessment-SrinivasKalagotla
+-> git clone https://github.com/yourusername/LIS-Software-Engineer-Assessment-SrinivasKalagotla.git
+-> cd LIS-Software-Engineer-Assessment-SrinivasKalagotla
 
 2. Please wait for the dependecies to be installed and then run the application
 
