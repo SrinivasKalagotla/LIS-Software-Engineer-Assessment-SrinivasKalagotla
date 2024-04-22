@@ -1,8 +1,8 @@
-#LIS-Software-Engineer-Assessment - Srinivas Kalagotla
+# LIS-Software-Engineer-Assessment - Srinivas Kalagotla
 
 Java Spring Boot application for data entry with an in-memory H2 database or PostgreSQL database and data validations.
 
-##Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 - You have installed Java 11 or later.
